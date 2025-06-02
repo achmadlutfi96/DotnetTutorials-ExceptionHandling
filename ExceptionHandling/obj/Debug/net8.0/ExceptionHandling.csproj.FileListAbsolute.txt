@@ -1,0 +1,15 @@
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.sourcelink.json
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll

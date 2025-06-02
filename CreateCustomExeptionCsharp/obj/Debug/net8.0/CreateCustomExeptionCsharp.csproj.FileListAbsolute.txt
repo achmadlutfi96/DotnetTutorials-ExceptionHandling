@@ -1,0 +1,15 @@
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\bin\Debug\net8.0\CreateCustomExeptionCsharp.exe
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\bin\Debug\net8.0\CreateCustomExeptionCsharp.deps.json
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\bin\Debug\net8.0\CreateCustomExeptionCsharp.runtimeconfig.json
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\bin\Debug\net8.0\CreateCustomExeptionCsharp.dll
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\bin\Debug\net8.0\CreateCustomExeptionCsharp.pdb
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\CreateCustomExeptionCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\CreateCustomExeptionCsharp.AssemblyInfoInputs.cache
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\CreateCustomExeptionCsharp.AssemblyInfo.cs
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\CreateCustomExeptionCsharp.csproj.CoreCompileInputs.cache
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\CreateCustomExeptionCsharp.sourcelink.json
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\CreateCustomExeptionCsharp.dll
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\refint\CreateCustomExeptionCsharp.dll
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\CreateCustomExeptionCsharp.pdb
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\CreateCustomExeptionCsharp.genruntimeconfig.cache
+C:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-ExceptionHandling\CreateCustomExeptionCsharp\obj\Debug\net8.0\ref\CreateCustomExeptionCsharp.dll
